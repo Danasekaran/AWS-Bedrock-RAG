@@ -1,0 +1,11 @@
+boto3
+pypdf2
+langchain
+langchain-aws
+streamlit
+chromadb
+faiss-cpu
+pdf2image
+pypdf
+langchain_community
+awscli
